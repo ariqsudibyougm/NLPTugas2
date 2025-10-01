@@ -1,0 +1,22 @@
+# Core libs
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+tqdm==4.67.1
+scikit-learn==1.6.1
+nltk==3.9.1
+gensim==4.3.3
+gdown
+
+# Hugging Face stack (compatible versions)
+transformers==4.55.4
+datasets==2.21.0
+huggingface_hub==0.34.0
+sentence-transformers==5.1.0
+
+# PyTorch (CPU by default, GPU separately)
+torch==2.8.0
+seqeval
+git+https://github.com/kmkurn/pytorch-crf.git
+
